@@ -1,1 +1,1 @@
-# obenkyo-nginx
+nginxのおべんきょうです。
